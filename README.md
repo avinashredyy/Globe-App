@@ -6,4 +6,4 @@ To run the project:
 2. Go to the downloaded my-App folder, right-click and select Git Bash here inside the my-App folder.
 3. Type npm install and press enter(You need to have node.js to do this step. Install node if not aready present).
 4. After completeing the above step, run npm start in the same or new Git Bash window.
-5. The website will start automatically on localhost:3000. If it doesn't, then go to a browser and type localhost:3000 in the URL bar.
+5. The website will start automatically on localhost:3000. If it doesn't, then go to a browser and type localhost:3000 in the URL bar..
